@@ -208,6 +208,6 @@ __pycache__/
 
 <div align="center">
 
-Built with ⚡ by [anikameenuak](https://github.com/anikameenuak)
+by [anikameenuak](https://github.com/anikameenuak)
 
 </div>
