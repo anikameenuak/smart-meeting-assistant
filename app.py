@@ -6,7 +6,7 @@ import pandas as pd
 # PAGE CONFIG
 # ======================
 st.set_page_config(
-    page_title="Notes Blend AI",
+    page_title="Smart Meeting Assistant",
     page_icon="⚡",
     layout="wide",
     initial_sidebar_state="collapsed"
@@ -325,12 +325,12 @@ st.markdown("""
 <div class="hero-wrap">
     <div class="hero-left">
         <div class="hero-badge">⚡ AI-Powered · v2.0</div>
-        <div class="hero-title">Notes<br><span>Blend</span></div>
+        <div class="hero-title">Smart<br><span>Meeting</span></div>
         <div class="hero-desc">Drop your raw meeting transcript. Get structured summaries and action items in seconds.</div>
     </div>
     <div class="hero-right">
         <div class="hero-stat"><strong>~3s</strong>avg processing</div>
-        <div class="hero-stat" style="margin-top:16px"><strong>GPT-4</strong>backend model</div>
+        <div class="hero-stat" style="margin-top:16px"><strong>LLaMA 3.3</strong>backend model</div>
     </div>
 </div>
 """, unsafe_allow_html=True)
